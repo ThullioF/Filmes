@@ -18,13 +18,13 @@ Acesse a aplicação aqui: [https://filmes-lista-two.vercel.app/)
 
 ---
 
-#🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 -React
 -React Router DOM
 -Vite
 -CSS puro
 
-#📁 Estrutura do Projeto
+# 📁 Estrutura do Projeto
 ├── public/
 │   ├── favicon.svg
 │   └── logo.svg
