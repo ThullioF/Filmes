@@ -7,7 +7,9 @@ Aplicação web feita em **React** que permite navegar entre filmes, visualizar 
 <p float="left">
   <img src="./prints/home.png" width="400"/>
   <img src="./prints/movie-details.png" width="400"/>
-  <img src="./prints/search.png" width="400"/>
+</p>
+<p float="left">
+  <img src="./prints/teste.gif" width="400"/>
 </p>
 
 ## 🔗 Link para a Aplicação Online
