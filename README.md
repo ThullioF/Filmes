@@ -10,8 +10,6 @@ Aplicação web feita em **React** que permite navegar entre filmes, visualizar 
   <img src="./prints/search.png" width="400"/>
 </p>
 
-> ⚠️ Certifique-se de que a pasta `prints/` está no seu repositório com as capturas de tela salvas como `home.png`, `movie-details.png` e `search.png`.
-
 ## 🔗 Link para a Aplicação Online
 
 Acesse a aplicação aqui: [https://filmes-lista-two.vercel.app/)  
